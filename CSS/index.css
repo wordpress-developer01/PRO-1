@@ -1,0 +1,91 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 130px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    margin-left: 10px;
+}
+
+
+nav{
+    margin-right: 80px;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+img{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.intro {
+    display: flex;
+    gap: 50px;
+}
+
+.projects {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+button{
+    border: none;
+    outline: none;
+    background-color: orange;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+input {
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+footer {
+    padding: 0px;
+    color: white;
+    background-color: black;
+}
+
+
+
+form {
+    margin-top: 50px;
+    padding-top: 20px;
+    margin-left: 650px;
+    border-radius: 0px;
+    width: 300px;
+    padding-bottom: 50px;
+}
+
+#form-status {
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}

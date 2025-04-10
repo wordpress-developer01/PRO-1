@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e10d63a7-18a6-40ad-9069-8feb2c2e29f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/code-projects-main.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Facebook-Logosu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/IMAGE(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Vector(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Vector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/wh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/whats.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/.stylelintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/inc/custom-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/inc/customizer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/inc/jetpack.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/inc/template-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/js/customizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/js/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/js/navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/languages/project.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/languages/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/phpcs.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/sidebar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/template-parts/content-none.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/template-parts/content-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/template-parts/content-search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/project1/template-parts/content.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wordpress-developer01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wordpress-developer01/PRO-PROJECT0.git",
+    "accountId": "e46d0e96-2055-49e0-8e8d-6d4037b8f85d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vEhguyUMkdT65FQg2kT7N54hk9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.main.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "goole",
+    "last_opened_file_path": "/Users/muratnasyrov01icloud.com/Library/Mobile Documents/com~apple~CloudDocs/Codecademy/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/JS" />
+      <recent name="$PROJECT_DIR$/CSS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e10d63a7-18a6-40ad-9069-8feb2c2e29f7" name="Changes" comment="" />
+      <created>1743716255590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743716255590</updated>
+      <workItem from="1743716256846" duration="1399000" />
+      <workItem from="1743721479835" duration="3140000" />
+      <workItem from="1743768474408" duration="742000" />
+      <workItem from="1743861837974" duration="666000" />
+      <workItem from="1744200449219" duration="1339000" />
+      <workItem from="1744213766447" duration="4875000" />
+      <workItem from="1744287614171" duration="8093000" />
+      <workItem from="1744300378481" duration="10647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
